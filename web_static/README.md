@@ -1,1 +1,1 @@
-web static
+WEB STATIC PROJECT
